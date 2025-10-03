@@ -4,5 +4,6 @@
   "policy": { "default": "deny" },
   "keys": [
     { "value": "KEY-QDXMArzOHNrUnA4SCv2gR5ySlXKdiQml4i1qSye6aLEWk0hXovhZL5Ghmz2fwAcv", "expires_at": "2029-12-31T23:59:59Z" },
+    { "value": "KEY-fGILc4RVc6xUac5jSMkRTttdNIxNYsPHpqZiP5yQerIQ7yz1R3vGTlnpmVWflChe" }
   ]
 }
